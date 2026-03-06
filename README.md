@@ -17,7 +17,7 @@ A PowerShell module that displays git branch information in your terminal prompt
 
 1. Clone this repository:
    ```powershell
-   git clone https://github.com/YOUR_USERNAME/ps-git-prompt.git
+   git clone https://github.com/mnovovil/ps-git-prompt.git
    ```
 
 2. Import the module in your PowerShell profile:

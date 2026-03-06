@@ -1,5 +1,5 @@
 # GitPrompt.psm1 - PowerShell Git Branch Prompt with Monorepo Support
-# https://github.com/YOUR_USERNAME/ps-git-prompt
+# https://github.com/mnovovil/ps-git-prompt
 
 function Get-GitBranchInfo {
     <#

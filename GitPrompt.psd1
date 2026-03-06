@@ -15,8 +15,8 @@
     PrivateData = @{
         PSData = @{
             Tags = @('git', 'prompt', 'monorepo', 'terminal', 'powershell')
-            LicenseUri = 'https://github.com/YOUR_USERNAME/ps-git-prompt/blob/main/LICENSE'
-            ProjectUri = 'https://github.com/YOUR_USERNAME/ps-git-prompt'
+            LicenseUri = 'https://github.com/mnovovil/ps-git-prompt/blob/main/LICENSE'
+            ProjectUri = 'https://github.com/mnovovil/ps-git-prompt'
             ReleaseNotes = 'Initial release with monorepo support.'
         }
     }
